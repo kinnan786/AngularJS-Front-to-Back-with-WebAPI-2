@@ -1,4 +1,6 @@
-﻿namespace APM.WebAPI
+﻿using System.Web.Optimization;
+
+namespace APM.WebAPI
 {
     public class BundleConfig
     {

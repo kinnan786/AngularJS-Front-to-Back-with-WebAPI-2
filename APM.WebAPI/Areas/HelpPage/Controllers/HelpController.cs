@@ -1,3 +1,5 @@
+using System.Web.Http;
+using System.Web.Mvc;
 using APM.WebAPI.Areas.HelpPage.ModelDescriptions;
 using APM.WebAPI.Areas.HelpPage.Models;
 

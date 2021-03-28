@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
+using System.Web.Http.Description;
 using APM.WebAPI.Areas.HelpPage.ModelDescriptions;
 
 namespace APM.WebAPI.Areas.HelpPage.Models

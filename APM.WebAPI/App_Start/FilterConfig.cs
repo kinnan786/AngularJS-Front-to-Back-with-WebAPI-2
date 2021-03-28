@@ -1,4 +1,6 @@
-﻿namespace APM.WebAPI
+﻿using System.Web.Mvc;
+
+namespace APM.WebAPI
 {
     public class FilterConfig
     {

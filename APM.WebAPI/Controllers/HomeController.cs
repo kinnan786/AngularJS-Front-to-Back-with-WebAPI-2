@@ -1,4 +1,6 @@
-﻿namespace APM.WebAPI.Controllers
+﻿using System.Web.Mvc;
+
+namespace APM.WebAPI.Controllers
 {
     public class HomeController : Controller
     {

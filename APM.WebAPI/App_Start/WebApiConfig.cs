@@ -1,4 +1,6 @@
-﻿namespace APM.WebAPI
+﻿using System.Web.Http;
+
+namespace APM.WebAPI
 {
     public static class WebApiConfig
     {
